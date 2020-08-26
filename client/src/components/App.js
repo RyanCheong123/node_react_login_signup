@@ -6,9 +6,9 @@ import {
   Link
 } from "react-router-dom";
 
-import LandingPage from './components/views/LandingPage/LandingPage'
-import LoginPage from './components/views/LoginPage/LoginPage'
-import RegisterPage from './components/views/RegisterPage/RegisterPage'
+import LandingPage from './views/LandingPage/LandingPage'
+import LoginPage from './views/LoginPage/LoginPage'
+import RegisterPage from './views/RegisterPage/RegisterPage'
 
 function App() {
   return (
